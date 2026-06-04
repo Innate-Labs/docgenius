@@ -42,6 +42,18 @@
 
 产品界面设计简洁大方，操作流程清晰，即便是没有写作经验的新手用户也能快速上手。DocGenius 是**内容创作者、学生、职场人士**的理想 AI 写作伙伴，让每个人都能轻松产出专业级文档内容。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="DocGenius 首页" width="100%" />
+  <br/>
+  <sub><b>基于 Gemini 的智能文档创作助手</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
