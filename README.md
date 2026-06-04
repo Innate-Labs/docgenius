@@ -47,7 +47,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="DocGenius 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="DocGenius 首页" width="100%" />
   <br/>
   <sub><b>基于 Gemini 的智能文档创作助手</b></sub>
 </div>
